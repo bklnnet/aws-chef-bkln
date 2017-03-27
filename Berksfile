@@ -1,2 +1,5 @@
-source "https://supermarket.chef.io"
-cookbook "chef-client"
+source 'https://supermarket.chef.io'
+cookbook 'chef-client'
+cookbook 'apache2'
+
+
